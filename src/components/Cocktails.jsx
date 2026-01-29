@@ -30,7 +30,7 @@ const Cocktails = () => {
     },[])
 
   return (
-    <section ref={cocktailSecRef} id='cocktails' className='mb-40'>
+    <section ref={cocktailSecRef} id='cocktails' className='mb-40 px-8 md:px-12'>
         <div className="noisy pointer-events-none z-0"/>
 
         <img ref={leftLeafRef} src='/images/cocktail-left-leaf.png' alt='l-leaf' id='c-left-leaf'/>

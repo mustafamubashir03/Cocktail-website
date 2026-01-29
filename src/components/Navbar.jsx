@@ -23,7 +23,7 @@ const Navbar = () => {
     })
   })
   return (
-    <nav className="nav">
+    <nav className="nav px-8 md:px-12">
         <div>
             <a href="#home" className="flex items-center gap-2">
                 <img src="/images/logo.png" alt="logo" />

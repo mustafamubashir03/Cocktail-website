@@ -37,7 +37,7 @@ const About = () => {
 
  
   return (
-    <div ref={aboutRef} id="about">
+    <div ref={aboutRef} className="px-8 md:px-12" id="about">
         <div className="mb-16 md:px-0 px-5">
             <div className="content">
                 <div className="md:col-span-8">

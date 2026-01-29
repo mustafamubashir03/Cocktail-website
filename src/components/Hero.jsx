@@ -63,7 +63,7 @@ const Hero = () => {
     },[])
   return (
     <>
-    <section id='hero' className='noisy border-2'>
+    <section id='hero' className='noisy px-8 md:px-12'>
         <h1 className='title'>MOCTAIL</h1>
         <img src="/images/hero-left-leaf.png" alt="left-leaf" 
         className='left-leaf'/>

@@ -39,6 +39,7 @@ const Art = () => {
             opacity:0,
             duration:1,
             ease:'power1.inOut'
+
         })
     })
 
